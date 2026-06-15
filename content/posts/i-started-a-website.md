@@ -1,5 +1,6 @@
 ---
 title: I started a website
+date: 2026-06-14
 ---
 So, I started a website. I'd been looking at other people's personal websites for a while, thinking "I want that," and finally got around to setting one up. I'm not sure what it will be yet—blog, digital garden, messy braindump—but I'll try to let it evolve with time and develop naturally. It's my place to put whatever I want.
 

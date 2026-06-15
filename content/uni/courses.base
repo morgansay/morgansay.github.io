@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder == "uni/courses"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - title
+      - start-date
+      - end-date
+      - grade
+    sort:
+      - property: start-date
+        direction: ASC
